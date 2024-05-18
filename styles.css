@@ -1,0 +1,42 @@
+* {
+    background-color: lightpink;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: larger;
+}
+.heade{
+    background-color: lightblue;
+    width : auto;
+    padding: 5px;
+    border: 2px violet;
+    border-style:double;
+    box-sizing: border-box;
+    font-size: small;
+    text-align:left;
+
+}
+.head{
+    text-align: center;
+    padding: 0px;
+    width: fit-content;
+    height: 69px;
+    margin: 10px auto;
+}
+.head h1 {
+    border-bottom: groove white;
+}
+button{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    width: fit-content;
+    border: groove purple;
+    border-radius: 10px;
+    background-color: aqua; 
+    display: inline-block;
+    margin: 0 50px;
+}
+button a {
+    color: brown;
+    border: none;
+    background-color: inherit;
+    text-decoration: none;
+}
